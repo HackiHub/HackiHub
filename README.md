@@ -66,6 +66,6 @@ Our hands-on training programs empower teams to master **DevSecOps**, focusing o
 At HackiHub, we help organizations innovate securely by bridging **cloud**, **DevOps**, and **security**. With tailored training, professional services, and expert guidance, we deliver **Simply Better DevSecOps**. 💪
 
 👉 Visit us at [hackihub.com](https://hackihub.com)  
-👉 Contact us at [Contact Us](https://hackihub.com/contact-us)
+👉 Contact us at [Contact Us](https://hackihub.com/contact)
 
 **HackiHub – Simply Better DevSecOps.** 🔐✨
